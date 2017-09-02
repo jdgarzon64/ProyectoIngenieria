@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoIngenieria", "ProyectoIngenieria\ProyectoIngenieria.csproj", "{388A23EB-B130-46D5-A4A1-3BB170948FF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoIngenieria.Tests", "ProyectoIngenieria.Tests\ProyectoIngenieria.Tests.csproj", "{B9B084B6-7BA3-4FF4-931C-8CD093A70368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388A23EB-B130-46D5-A4A1-3BB170948FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388A23EB-B130-46D5-A4A1-3BB170948FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388A23EB-B130-46D5-A4A1-3BB170948FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388A23EB-B130-46D5-A4A1-3BB170948FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B084B6-7BA3-4FF4-931C-8CD093A70368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B084B6-7BA3-4FF4-931C-8CD093A70368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B084B6-7BA3-4FF4-931C-8CD093A70368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B084B6-7BA3-4FF4-931C-8CD093A70368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
