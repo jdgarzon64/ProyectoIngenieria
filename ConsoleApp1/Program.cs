@@ -31,7 +31,7 @@ namespace PruebaE2E
             nombre.SendKeys("Luis Felipe");
             apellido.SendKeys("Sosa Alvarez");
             ident.SendKeys("1234567");
-            boton.Click();
+            boton.Click();      
         }
     }
 }
